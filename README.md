@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **laravel**
 - ⚡ Fun fact: Jack of All Trades, masters at none
-![sans](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4anQwcnl3ZjB0OXVkdW9oNzJrMHR5dW5rdmttZ3o5eDZ2OXlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif)
 - 📫 How to reach me : [Instagram](https://www.instagram.com/_.zukimi._?igsh=NGl4c2xmdHd3ZHA0)
+
+![sans](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4anQwcnl3ZjB0OXVkdW9oNzJrMHR5dW5rdmttZ3o5eDZ2OXlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif)
