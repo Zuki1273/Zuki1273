@@ -1,4 +1,4 @@
-## Hi there 👋
+## "It Is What It Is." 🙂‍↕️
 
 <!--
 **Zuki1273/Zuki1273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **laravel**
+- ⚡ Fun fact: Jack of All Trades, masters at none
+![sans](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4anQwcnl3ZjB0OXVkdW9oNzJrMHR5dW5rdmttZ3o5eDZ2OXlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif)
+- 📫 How to reach me : [Instagram](https://www.instagram.com/_.zukimi._?igsh=NGl4c2xmdHd3ZHA0)
