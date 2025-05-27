@@ -21,7 +21,7 @@
 </div>
 
 - 🌱 I’m currently learning **laravel**
-- ⚡ Fun fact: Jack of all trades, master of none
+- ⚡ Fun fact: Like reading book and ngopi☕
 
 <h3 align="center">My Stats</h3>
 
